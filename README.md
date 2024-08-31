@@ -1,4 +1,4 @@
-# 🐶🐶🐶 Team Wailian - UCSAS 2024 Repository 🐶🐶🐶
+# Team Wailian - UCSAS 2024 Repository 🐶🐶🐶
 
 Welcome to team Wailian's repository for the 2024 USOPC Data Challenge!
 
