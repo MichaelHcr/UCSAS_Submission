@@ -3,7 +3,7 @@
 Welcome to team Wailian's repository for the [2024 USOPC Data Challenge](https://statds.org/events/ucsas2024/challenge.html#overview)!
 
 ## 🎯 Goal
-The goal of the competition is to **identify the groups of 5 athletes** who will enable the USA Olympic Men’s and Women’s Artistic Gymnastics teams to **optimize success** in Paris 2024 based on data from athletes' performance in gymnastics competitions in the past year.
+The goal of the project is to **identify the groups of 5 athletes** who will enable the USA Olympic Men’s and Women’s Artistic Gymnastics teams to **optimize success** in Paris 2024 based on data from athletes' performance in gymnastics competitions in the past year.
 
 ## 🧾 Contents
 This repository contains our final report (pdf) and a few Jupyter notebook (.ipynb) files each serving a specific purpose in the data analysis pipeline.
